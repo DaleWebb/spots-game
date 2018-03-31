@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\bin\Debug\Spots game.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\bin\Debug\Spots game.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\bin\Debug\Spots game.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\Spots game.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\Spots game.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\Spots game.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Spots game\Spots game\obj\Debug\Spots game.pdb
